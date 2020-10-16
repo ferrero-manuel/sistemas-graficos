@@ -2,7 +2,9 @@
 
 ## Ejecutar archivos html en el navegador
 
-* [Ejecutar Ejercicio](https://htmlpreview.github.io/?https://github.com/ferrero-manuel/sistemas-graficos/blob/main/Entregas/02_ejercicioSistemaSolar/sistemaSolar.html) - Al ejecutar esperar unos segundos para que cargue. Probado en Chrome y Firefox.
+Al ejecutar esperar unos segundos para que cargue. Probado en Chrome y Firefox.
+
+* [Click aquí para ejecutar](https://htmlpreview.github.io/?https://github.com/ferrero-manuel/sistemas-graficos/blob/main/Entregas/02_ejercicioSistemaSolar/sistemaSolar.html) 
 
 ## Capturas de pantalla
 
