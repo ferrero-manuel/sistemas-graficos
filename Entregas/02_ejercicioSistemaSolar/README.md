@@ -1,5 +1,7 @@
 # Ejercicio SistemaSolar
 
+Alumno: **Ferrero Manuel**
+
 ## Ejecutar archivo html en el navegador
 
 Para ejecutar el programa se uso:
