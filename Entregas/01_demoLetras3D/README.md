@@ -2,8 +2,14 @@
 
 ## Ejecutar archivos html en el navegador
 
-* [Ejecutar Ejercicio 1](http://htmlpreview.github.io/?https://github.com/ferrero-manuel/sistemas-graficos/blob/main/Entregas/01_demoLetras3D/ejercicio1.html) - Al ejecutar esperar unos segundos para que cargue. Probado en Chrome y Firefox.
-* [Ejecutar Ejercicio 2](http://htmlpreview.github.io/?https://github.com/ferrero-manuel/sistemas-graficos/blob/main/Entregas/01_demoLetras3D/ejercicio2.html) - Al ejecutar esperar unos segundos para que cargue. Probado en Chrome y Firefox.
+Para ejecutar el programa se uso:
+
+* [GitHub & BitBucket HTML Preview](https://htmlpreview.github.io/)
+
+Al ejecutar esperar unos segundos para que cargue. Probado en Chrome y Firefox.
+
+* [Click aquí para ejecutar Ejercicio 1](http://htmlpreview.github.io/?https://github.com/ferrero-manuel/sistemas-graficos/blob/main/Entregas/01_demoLetras3D/ejercicio1.html)
+* [Click aquí para ejecutar Ejercicio 2](http://htmlpreview.github.io/?https://github.com/ferrero-manuel/sistemas-graficos/blob/main/Entregas/01_demoLetras3D/ejercicio2.html)
 
 ## Capturas de pantalla
 
