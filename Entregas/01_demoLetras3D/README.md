@@ -1,5 +1,7 @@
 # Ejercicio demoLetras3D
 
+Alumno: **Ferrero Manuel**
+
 ## Ejecutar archivos html en el navegador
 
 Para ejecutar el programa se uso:
