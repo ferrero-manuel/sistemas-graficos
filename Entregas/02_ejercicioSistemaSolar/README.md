@@ -1,6 +1,6 @@
 # Ejercicio SistemaSolar
 
-## Ejecutar archivos html en el navegador
+## Ejecutar archivo html en el navegador
 
 Al ejecutar esperar unos segundos para que cargue. Probado en Chrome y Firefox.
 
