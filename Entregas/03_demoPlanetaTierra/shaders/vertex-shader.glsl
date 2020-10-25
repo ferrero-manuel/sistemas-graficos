@@ -41,9 +41,10 @@
             
             // **************** EDITAR A PARTIR DE AQUI *******************************
             
-            float a = position.y*2.0;
-            position.x = cos(a)*position.x+sin(a)*position.z;
-            position.z = -sin(a)*position.x+cos(a)*position.z;
+            //float a = position.y*2.0;
+            //position.x = cos(a)*position.x+sin(a)*position.z;
+            //position.z = -sin(a)*position.x+cos(a)*position.z;
+            position.x = arccos(position.x);
 
             // ************************************************************************
 
