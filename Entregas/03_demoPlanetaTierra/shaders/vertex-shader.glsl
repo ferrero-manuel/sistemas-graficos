@@ -41,7 +41,9 @@
             
             // **************** EDITAR A PARTIR DE AQUI *******************************
             
-            position+=position*(1.0+sin(position.y*18.0*PI+time*20.0))*0.03; 
+            float a = position.y*2.0;
+            position.x = cos(a)*position.x+sin(a)*position.z;
+            position.z = -sin(a)*position.x+cos(a)*position.z;
 
             // ************************************************************************
 
