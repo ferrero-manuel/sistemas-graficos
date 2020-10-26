@@ -9,6 +9,9 @@ Para ejecutar el programa se uso:
 
 * [GitHub & BitBucket HTML Preview](https://htmlpreview.github.io/)
 
-Al ejecutar esperar unos segundos para que cargue. Probado en Chrome y Firefox.
+Para ejecutar:
 
-* [Click aquí para ejecutar](https://htmlpreview.github.io/?https://github.com/ferrero-manuel/sistemas-graficos/blob/main/Entregas/03_demoPlanetaTierra/index.html) 
+* [Click aquí para ejecutar ejercicio 1](https://htmlpreview.github.io/?https://github.com/ferrero-manuel/sistemas-graficos/blob/main/Entregas/03_demoPlanetaTierra/index_ejercicio1.html)
+* [Click aquí para ejecutar ejercicio 2](https://htmlpreview.github.io/?https://github.com/ferrero-manuel/sistemas-graficos/blob/main/Entregas/03_demoPlanetaTierra/index_ejercicio2.html) 
+* [Click aquí para ejecutar ejercicio 3](https://htmlpreview.github.io/?https://github.com/ferrero-manuel/sistemas-graficos/blob/main/Entregas/03_demoPlanetaTierra/index_ejercicio3.html) 
+* [Click aquí para ejecutar ejercicio 4](https://htmlpreview.github.io/?https://github.com/ferrero-manuel/sistemas-graficos/blob/main/Entregas/03_demoPlanetaTierra/index_ejercicio4.html) 
