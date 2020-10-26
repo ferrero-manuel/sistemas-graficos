@@ -41,7 +41,12 @@
             
             // **************** EDITAR A PARTIR DE AQUI *******************************
             
-            // position+=normal*(1.0+sin(position.z*18.0*PI+time*20.0))*0.03; 
+            position.x = uv.x-0.5;
+            position.z = uv.y-0.5;
+            
+
+            float aux = sqrt(pow(position.x, 2.0)+pow(position.z, 2.0));
+            position.y = 0.10*sin(35.0*time-70.0*aux)*exp(-5.0*sqrt(aux));
 
             // ************************************************************************
 
