@@ -11,7 +11,7 @@ Para ejecutar el programa se uso:
 
 Para ejecutar:
 
-* [Click aquí para ejecutar ejercicio 1](https://htmlpreview.github.io/?https://github.com/ferrero-manuel/sistemas-graficos/blob/main/Entregas/03_demoPlanetaTierra/index_ejercicio1.html)
-* [Click aquí para ejecutar ejercicio 2](https://htmlpreview.github.io/?https://github.com/ferrero-manuel/sistemas-graficos/blob/main/Entregas/03_demoPlanetaTierra/index_ejercicio2.html) 
-* [Click aquí para ejecutar ejercicio 3](https://htmlpreview.github.io/?https://github.com/ferrero-manuel/sistemas-graficos/blob/main/Entregas/03_demoPlanetaTierra/index_ejercicio3.html) 
-* [Click aquí para ejecutar ejercicio 4](https://htmlpreview.github.io/?https://github.com/ferrero-manuel/sistemas-graficos/blob/main/Entregas/03_demoPlanetaTierra/index_ejercicio4.html) 
+* [Click aquí para ejecutar Ejercicio 1](https://htmlpreview.github.io/?https://github.com/ferrero-manuel/sistemas-graficos/blob/main/Entregas/03_demoPlanetaTierra/index_ejercicio1.html)
+* [Click aquí para ejecutar Ejercicio 2](https://htmlpreview.github.io/?https://github.com/ferrero-manuel/sistemas-graficos/blob/main/Entregas/03_demoPlanetaTierra/index_ejercicio2.html) 
+* [Click aquí para ejecutar Ejercicio 3](https://htmlpreview.github.io/?https://github.com/ferrero-manuel/sistemas-graficos/blob/main/Entregas/03_demoPlanetaTierra/index_ejercicio3.html) 
+* [Click aquí para ejecutar Ejercicio 4](https://htmlpreview.github.io/?https://github.com/ferrero-manuel/sistemas-graficos/blob/main/Entregas/03_demoPlanetaTierra/index_ejercicio4.html) 
