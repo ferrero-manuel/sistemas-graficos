@@ -41,8 +41,10 @@
             
             // **************** EDITAR A PARTIR DE AQUI *******************************
             
-            // position+=normal*(1.0+sin(position.z*18.0*PI+time*20.0))*0.03;
-            
+            position.x = uv.x-0.5;
+            position.z = uv.y-0.5;
+            position.y = 0.0;
+
             // ************************************************************************
 
             vec4 worldPos = uMMatrix*vec4(position, 1.0);                        
