@@ -42,11 +42,6 @@
             // **************** EDITAR A PARTIR DE AQUI *******************************
             
             // position+=normal*(1.0+sin(position.z*18.0*PI+time*20.0))*0.03;
-            // position.x = sin(position.x*PI/2.0);
-            // position.z = sin(position.z*PI/2.0);
-            position.y=-0.15;
-            position.x=uv.y-1.0;
-            position.z=(log2(tan(PI/4.0+uv.x/2.0)))-1.0;
             
             // ************************************************************************
 
