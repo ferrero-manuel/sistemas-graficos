@@ -41,7 +41,9 @@
             
             // **************** EDITAR A PARTIR DE AQUI *******************************
             
-            // position+=normal*(1.0+sin(position.z*18.0*PI+time*20.0))*0.03;
+            position.x = 0.5*cos(2.0*PI*uv.x);
+            position.y = 2.0*sin(uv.y)-1.0;
+            position.z = 0.5*sin(2.0*PI*uv.x);
 
             // ************************************************************************
 
