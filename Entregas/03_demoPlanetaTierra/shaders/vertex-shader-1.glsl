@@ -42,7 +42,7 @@
             // **************** EDITAR A PARTIR DE AQUI *******************************
             
             // position+=normal*(1.0+sin(position.z*18.0*PI+time*20.0))*0.03;
-            position.x *= 2*position.x;
+            position.x *= 2.0*position.x;
 
             // ************************************************************************
 
