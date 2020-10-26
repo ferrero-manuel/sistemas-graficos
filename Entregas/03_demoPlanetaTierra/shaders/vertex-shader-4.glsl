@@ -41,13 +41,22 @@
             
             // **************** EDITAR A PARTIR DE AQUI *******************************
             
-            if (textureColor.x < 0.3 && textureColor.y < 0.3 && textureColor.z < 0.5) {
-                position += normal*(1.0+sin(uv.x*18.0*PI+time*20.0))*0.03;
-                position += normal*(1.0+sin(uv.y*18.0*PI+time*20.0))*0.03;
+            if(textureColor.y < 0.2 && textureColor.z < 0.5 && textureColor.x < 0.5){
+                position+=normal*(1.0+sin(uv.x*18.0*PI+time*20.0))*0.03;
+                position+=normal*(1.0+sin(uv.y*18.0*PI+time*20.0))*0.03;
             }
-            else {
-                position += normal*0.05;
+            if(!(textureColor.y < 0.2) ){
+                position+=normal*0.12;
             }
+
+
+            //if (textureColor.x < 0.3 && textureColor.y < 0.3 && textureColor.z < 0.5) {
+            //    position += normal*(1.0+sin(uv.x*18.0*PI+time*20.0))*0.03;
+            //    position += normal*(1.0+sin(uv.y*18.0*PI+time*20.0))*0.03;
+            //}
+            //else {
+            // position += normal*0.05;
+            //}
 
             // ************************************************************************
 
