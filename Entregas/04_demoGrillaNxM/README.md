@@ -1,4 +1,4 @@
-# Ejercicio GrillaNx:
+# Ejercicio GrillaNxM
 
 Alumno: **Ferrero Manuel**
 
