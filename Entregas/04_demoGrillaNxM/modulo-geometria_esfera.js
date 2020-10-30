@@ -107,7 +107,18 @@ function TuboSenoidal(amplitud, lambda, radio, altura) {
     }
 
     this.getNormal = function (u, v) {
-        return [0,1,0];
+        var phi = 2*Math.PI*u;
+        var k = 2*Math.PI/lambda;
+
+        var aux = radio + amplitud*Math.cos(k*v);
+
+        var nx = amplitud*Math.sin(phi)*aux;
+        var ny = k*amplitud*Math.sin(k*v)*aux;
+        var nz = amplitud*(radio + amplitud*Math.cos(k*v))*Math.cos(phi);
+
+        var nmod = Math.sqrt(nx*nx + ny*ny + nz*nz);
+
+        return [(nx/nmod),(ny/nmod),(nz/nmod)];
     }
 
     this.getCoordenadasTextura = function(u, v) {
