@@ -1,0 +1,102 @@
+<!DOCTYPE html>	
+<html>
+<style>
+
+
+	body{
+		background-color:#CCCCCC;
+		font-family:arial;
+		font-size:16px;
+		
+	}
+
+	#container{
+	}
+
+	#svg{
+		background-image: url("s.png");	
+		border:1px solid black;
+        display: inline-block;
+		
+		
+	}
+
+	#info{
+        padding: 30px;
+        vertical-align: top;;       
+        min-width: 200px;;
+        
+		
+		border:1px solid black;
+        display: inline-block;
+	}
+    #container{
+        display: block;
+        text-align: center;
+    }
+</style>
+<script src="js/jquery.min.js"></script>
+
+<body>
+
+	
+    <div id="container">
+	<svg  id="svg" width="800" height="800" viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg" fill="transparent">
+	
+        <path d="M 582 -14 C 582 -14, 600 -14, 600 -14" stroke="red" fill="transparent"/>
+
+        <path d="M 600 -14 C 600 -14, 600 204, 600 204" stroke="green" fill="transparent"/>
+
+        <path d="M 600 204 C 600 204, 582 204, 582 204" stroke="blue" fill="transparent"/>
+
+
+        <path d="M 298 100 C 340 -32, 573 5, 582 204" stroke="yellow" fill="transparent"/>
+
+        <path d="M 298 100 C 275 220, 500 256, 600 362" stroke="cyan" fill="transparent"/>
+
+        <path d="M 600 362 C 708 490, 590 672, 400 640" stroke="magenta" fill="transparent"/>
+
+        <path d="M 247 643 C 252 575, 300 620, 400 640" stroke="red" fill="transparent"/>
+
+
+        <path d="M 229 643 C 229 643, 247 643, 247 643" stroke="green" fill="transparent"/>
+
+        <path d="M 229 427 C 229 427, 229 643, 229 643" stroke="blue" fill="transparent"/>     
+
+        <path d="M 247 427 C 247 427, 229 427, 229 427" stroke="yellow" fill="transparent"/>
+
+
+        <path d="M 247 427 C 267 660, 558 652, 560 500" stroke="cyan" fill="transparent"/>
+
+        <path d="M 300 287 C 395 365, 556 400, 560 500" stroke="magenta" fill="transparent"/>
+
+        <path d="M 300 287 C 120 155, 280 -85, 500 5" stroke="red" fill="transparent"/>
+
+        <path d="M 500 5 C 520 10, 575 50, 582 -14" stroke="blue" fill="transparent"/>
+
+	</svg>	
+        <div id="info">
+        -
+        </div>
+        <br>
+        <a href="https://developer.mozilla.org/en-US/docs/Web/SVG/Tutorial/Paths">Referencia: SVG Paths<a/>
+    </div>
+	
+
+    
+        
+    <script>
+
+        $("#svg").mousemove(function(e){
+        
+            var x=e.pageX;
+            var y=e.pageY;
+            
+            $("#info").html("x:"+x+" y:"+y);
+        });
+
+    </script>
+
+</body>
+</html>
+
